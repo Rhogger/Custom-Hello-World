@@ -23,3 +23,5 @@ To access the site is simple, just click on the <a href = "https://rhogger.githu
 ## TODO List <a name = "todo_list"></a>
 
 - [ ] Add responsiveness to the site
+- [ ] Remove the astronaut of backgroung-image and replace the empty space for black color.
+- [ ] Add astronaut again and do him floating.
