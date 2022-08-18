@@ -18,7 +18,7 @@ Day 2 consists of making a custom "Hello World" with fonts, colors and images.
 
 ## Go to <a name = "go_to"></a>
 
-To access the site is simple, just click on the <a href = "https://rhogger.github.io/Day-1/">link</a>
+To access the site is simple, just click on the <a href = "https://rhogger.github.io/Day-2/">link</a>
 
 ## TODO List <a name = "todo_list"></a>
 
