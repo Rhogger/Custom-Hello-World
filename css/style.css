@@ -1,0 +1,81 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("../image/spaceman.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Silkscreen', cursive;
+  font-weight: 600;
+  font-size: 64px;
+  position: relative;
+}
+
+h1 {
+  margin: auto 0;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+span {
+  transform: translateY(0px);
+  color: white;
+}
+
+.H {
+  animation: float 10s ease-in-out infinite;
+}
+
+.E {
+  animation: float 9.7s ease-in-out infinite;
+}
+
+.L {
+  animation: float 9.4s ease-in-out infinite;
+}
+
+.L2 {
+  animation: float 9.1s ease-in-out infinite;
+}
+
+.O {
+  animation: float 8.8s ease-in-out infinite;
+}
+
+.W {
+  animation: float 8.5s ease-in-out infinite;
+}
+
+.O2 {
+  animation: float 8.2s ease-in-out infinite;
+}
+
+.R {
+  animation: float 7.9s ease-in-out infinite;
+}
+
+.L3 {
+  animation: float 7.6s ease-in-out infinite;
+}
+
+.D {
+  animation: float 7.3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(30px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
